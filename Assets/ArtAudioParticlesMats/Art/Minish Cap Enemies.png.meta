@@ -1,0 +1,1922 @@
+fileFormatVersion: 2
+guid: 478785f330c46f448abfe88f473ccf32
+timeCreated: 1525112357
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Minish Cap Enemies_0
+    21300002: Minish Cap Enemies_1
+    21300004: Minish Cap Enemies_2
+    21300006: Minish Cap Enemies_3
+    21300008: Minish Cap Enemies_4
+    21300010: Minish Cap Enemies_5
+    21300012: Minish Cap Enemies_6
+    21300014: Minish Cap Enemies_7
+    21300016: Minish Cap Enemies_8
+    21300018: Minish Cap Enemies_9
+    21300020: Minish Cap Enemies_10
+    21300022: Minish Cap Enemies_11
+    21300024: Minish Cap Enemies_12
+    21300026: Minish Cap Enemies_13
+    21300028: Minish Cap Enemies_14
+    21300030: Minish Cap Enemies_15
+    21300032: Minish Cap Enemies_16
+    21300034: Minish Cap Enemies_17
+    21300036: Minish Cap Enemies_18
+    21300038: Minish Cap Enemies_19
+    21300040: Minish Cap Enemies_20
+    21300042: Minish Cap Enemies_21
+    21300044: Minish Cap Enemies_22
+    21300046: Minish Cap Enemies_23
+    21300048: Minish Cap Enemies_24
+    21300050: Minish Cap Enemies_25
+    21300052: Minish Cap Enemies_26
+    21300054: Minish Cap Enemies_27
+    21300056: Minish Cap Enemies_28
+    21300058: Minish Cap Enemies_29
+    21300060: Minish Cap Enemies_30
+    21300062: Minish Cap Enemies_31
+    21300064: Minish Cap Enemies_32
+    21300066: Minish Cap Enemies_33
+    21300068: Minish Cap Enemies_34
+    21300070: Minish Cap Enemies_35
+    21300072: Minish Cap Enemies_36
+    21300074: Minish Cap Enemies_37
+    21300076: Minish Cap Enemies_38
+    21300078: Minish Cap Enemies_39
+    21300080: Minish Cap Enemies_40
+    21300082: Minish Cap Enemies_41
+    21300084: Minish Cap Enemies_42
+    21300086: Minish Cap Enemies_43
+    21300088: Minish Cap Enemies_44
+    21300090: Minish Cap Enemies_45
+    21300092: Minish Cap Enemies_46
+    21300094: Minish Cap Enemies_47
+    21300096: Minish Cap Enemies_48
+    21300098: Minish Cap Enemies_49
+    21300100: Minish Cap Enemies_50
+    21300102: Minish Cap Enemies_51
+    21300104: Minish Cap Enemies_52
+    21300106: Minish Cap Enemies_53
+    21300108: Minish Cap Enemies_54
+    21300110: Minish Cap Enemies_55
+    21300112: Minish Cap Enemies_56
+    21300114: Minish Cap Enemies_57
+    21300116: Minish Cap Enemies_58
+    21300118: Minish Cap Enemies_59
+    21300120: Minish Cap Enemies_60
+    21300122: Minish Cap Enemies_61
+    21300124: Minish Cap Enemies_62
+    21300126: Minish Cap Enemies_63
+    21300128: Minish Cap Enemies_64
+    21300130: Minish Cap Enemies_65
+    21300132: Minish Cap Enemies_66
+    21300134: Minish Cap Enemies_67
+    21300136: Minish Cap Enemies_68
+    21300138: Minish Cap Enemies_69
+    21300140: Minish Cap Enemies_70
+    21300142: Minish Cap Enemies_71
+    21300144: Minish Cap Enemies_72
+    21300146: Minish Cap Enemies_73
+    21300148: Minish Cap Enemies_74
+    21300150: Minish Cap Enemies_75
+    21300152: Minish Cap Enemies_76
+    21300154: Minish Cap Enemies_77
+    21300156: Minish Cap Enemies_78
+    21300158: Minish Cap Enemies_79
+    21300160: Minish Cap Enemies_80
+    21300162: Minish Cap Enemies_81
+    21300164: Minish Cap Enemies_82
+    21300166: Minish Cap Enemies_83
+    21300168: Minish Cap Enemies_84
+    21300170: Minish Cap Enemies_85
+    21300172: Minish Cap Enemies_86
+    21300174: Minish Cap Enemies_87
+    21300176: Minish Cap Enemies_88
+    21300178: Minish Cap Enemies_89
+    21300180: Minish Cap Enemies_90
+    21300182: Minish Cap Enemies_91
+    21300184: Minish Cap Enemies_92
+    21300186: Minish Cap Enemies_93
+    21300188: Minish Cap Enemies_94
+    21300190: Minish Cap Enemies_95
+    21300192: Minish Cap Enemies_96
+    21300194: Minish Cap Enemies_97
+    21300196: Minish Cap Enemies_98
+    21300198: Minish Cap Enemies_99
+    21300200: Minish Cap Enemies_100
+    21300202: Minish Cap Enemies_101
+    21300204: Minish Cap Enemies_102
+    21300206: Minish Cap Enemies_103
+    21300208: Minish Cap Enemies_104
+    21300210: Minish Cap Enemies_105
+    21300212: Minish Cap Enemies_106
+    21300214: Minish Cap Enemies_107
+    21300216: Minish Cap Enemies_108
+    21300218: Minish Cap Enemies_109
+    21300220: Minish Cap Enemies_110
+    21300222: Minish Cap Enemies_111
+    21300224: Minish Cap Enemies_112
+    21300226: Minish Cap Enemies_113
+    21300228: Minish Cap Enemies_114
+    21300230: Minish Cap Enemies_115
+    21300232: Minish Cap Enemies_116
+    21300234: Minish Cap Enemies_117
+    21300236: Minish Cap Enemies_118
+    21300238: Minish Cap Enemies_119
+    21300240: Minish Cap Enemies_120
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minish Cap Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 627
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 627
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 627
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 627
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 627
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 627
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 627
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 627
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 627
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 627
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 528
+        width: 189
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 528
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 528
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 528
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 528
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 528
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 528
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 528
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 488
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 425
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 425
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 425
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 425
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 425
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 425
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 425
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 425
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 425
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 424
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 425
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 425
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 425
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 290
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 289
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 289
+        width: 130
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 289
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 289
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 289
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 289
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 249
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 249
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 249
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 249
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 249
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 249
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 249
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 249
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 249
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 249
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 249
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 249
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 249
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 249
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 214
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 214
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 214
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 214
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 214
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 214
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 178
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 178
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 178
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 178
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 178
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 178
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 178
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 178
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 178
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 178
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 178
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 178
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 178
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 178
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 178
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 178
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 178
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 178
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 178
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 147
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 109
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 108
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 109
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 109
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 109
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 109
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 109
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 109
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 109
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 109
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 109
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 109
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 109
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 109
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 109
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 72
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 72
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 72
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 72
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 35
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 36
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 35
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 35
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 35
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 35
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 35
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 35
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 43
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 35
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 35
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 35
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 35
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 35
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 35
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 35
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 4
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 4
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minish Cap Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 4
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

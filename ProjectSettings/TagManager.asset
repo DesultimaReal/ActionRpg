@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - Chest
+  - Pickup
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Text
+  - Ground
+  - Player
+  - LightSources
+  - LightObstacles
+  - AmbientLight
+  - Occulus
+  - ProjectilesIgnoringCollision
+  - Chest
+  - SOLIDSTUFF
+  - ENEMYLAYER
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 4114730091
+    locked: 0
+  - name: Player
+    uniqueID: 2571859145
+    locked: 0
+  - name: WorldObjects
+    uniqueID: 4047963455
+    locked: 0
+  - name: UI
+    uniqueID: 3658772545
+    locked: 0

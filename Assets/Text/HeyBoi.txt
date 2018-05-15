@@ -1,0 +1,2 @@
+Greetings player. I am your guide.
+Come closer and press J to speak to me.

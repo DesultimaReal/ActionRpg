@@ -1,0 +1,4 @@
+Welcome to the World Of Thunder. Press Enter to talk.
+You look tired. Try moving with WASD.
+Oh! Also try ATTACKing things with J.
+Good Luck!
